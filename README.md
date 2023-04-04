@@ -1,4 +1,4 @@
-# augmenter_volume_video
+# Augmenter_volume_video
 Permet d'augmenter ou de diminuer le volume d'un fichier vidéo sans altérer la qualité vidéo.
 
 Le script permet à l'utilisateur de sélectionner un fichier vidéo dans le dossier contenant le script, 
