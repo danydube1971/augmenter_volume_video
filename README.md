@@ -1,5 +1,7 @@
 # Augmenter_volume_video
-Permet d'augmenter ou de diminuer le volume d'un fichier vidéo sans altérer la qualité vidéo.
+Vous avez une vidéo dont le son est trop faible ou trop fort ? Avec ce script, pas de problème.
+
+Ce script permet d'augmenter ou de diminuer le volume d'un fichier vidéo sans altérer la qualité vidéo.
 
 Le script permet à l'utilisateur de sélectionner un fichier vidéo dans le dossier contenant le script, 
 d'ajuster le volume de ce fichier vidéo en augmentant ou en diminuant le nombre de décibels, et de créer un fichier vidéo de sortie 
