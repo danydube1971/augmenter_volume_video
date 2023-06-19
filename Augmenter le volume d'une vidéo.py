@@ -1,3 +1,4 @@
+# Ce script permet d'augmenter ou de diminuer le volume d'un fichier vidéo sans altérer la qualité vidéo.
 import os
 import subprocess
 
